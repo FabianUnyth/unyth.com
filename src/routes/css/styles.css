@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    @apply bg-unyth-dark-500 text-unyth-light-400;
+}
+
